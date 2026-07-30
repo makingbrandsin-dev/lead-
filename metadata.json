@@ -1,0 +1,6 @@
+{
+  "name": "Making Brands",
+  "description": "Smart CRM & Lead Generation Platform for Smarter Businesses",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
